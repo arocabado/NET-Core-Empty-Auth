@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\geoportal_back.props" />
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uxQ/ImOudIGujIUgDqXuOEb0ejUUj2TLrC5RGF8LKoc=",
+  "Source": "geoportal_back",
+  "BasePath": "_content/geoportal_back",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
